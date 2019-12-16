@@ -6,6 +6,13 @@
         <item name="colorPrimary">@color/colorPrimary</item>
         <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
         <item name="colorAccent">@color/colorAccent</item>
+        <!-- スタイルの追加定義 -->
+        <!-- 背景を指定する -->
+        <item name="android:windowBackground">@drawable/background</item>
+        <!-- プライマリの文字色 -->
+        <item name="android:textColorPrimary">@color/primaryText</item>
+        <!-- 使用フォント(細いサン・シェリフ体を指定) -->
+        <item name="android:fontFamily">sans-serif-thin</item>
     </style>
 
 </resources>

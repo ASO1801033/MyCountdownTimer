@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!--
     <color name="colorPrimary">#008577</color>
     <color name="colorPrimaryDark">#00574B</color>
     <color name="colorAccent">#D81B60</color>
+    -->
+
+    <color name="colorPrimary">#74B771</color>
+    <color name="colorPrimaryDark">#3C9C5A</color>
+    <color name="colorAccent">#536DFE</color>
+    <!-- メインの文字色という定義で指定する文字色 -->
+    <color name="primaryText">#757575</color>
 </resources>

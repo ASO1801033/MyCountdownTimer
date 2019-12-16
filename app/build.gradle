@@ -8,6 +8,7 @@ android {
     compileSdkVersion 29
     buildToolsVersion "29.0.2"
     defaultConfig {
+        vectorDrawables.useSupportLibrary = true
         applicationId "jp.ac.asojuku.s.mycountdowntimer"
         minSdkVersion 19
         targetSdkVersion 29
@@ -32,4 +33,5 @@ dependencies {
     testImplementation 'junit:junit:4.12'
     androidTestImplementation 'androidx.test:runner:1.1.1'
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.1.1'
+    implementation 'com.google.android.material:material:1.0.0'
 }

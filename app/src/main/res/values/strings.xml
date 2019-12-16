@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">MyCountdownTimer</string>
+    <string name="timerTextValue" />
+    <string name="timerTextDummy">3:00</string>
 </resources>
